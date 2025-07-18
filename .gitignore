@@ -1,0 +1,22 @@
+# Node (client)
+client/node_modules
+client/dist
+client/.env.local
+client/.next
+client/.turbo
+client/.DS_Store
+
+# Python (server)
+server/venv/
+server/__pycache__/
+server/*.pyc
+server/.env
+server/.DS_Store
+
+# Common
+.env
+*.log
+*.sqlite3
+*.db
+.idea/
+.vscode/
